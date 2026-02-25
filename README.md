@@ -19,6 +19,17 @@ Preview:
 ![Day 1](screenshots/day1_excel_basics.png)
 
 ---
+---
 
+## 🟢 Day 2 – Logical & Lookup Functions
+
+Skills practiced:
+- Used VLOOKUP to merge employee and salary tables
+- Categorized salaries using IF
+- Counted high earners using COUNTIF
+- Implemented INDEX + MATCH as a flexible lookup alternative
+
+Preview:
+![Day 2](screenshots/day2_lookup_practice.png)
 ## 🎯 Goal
 Building a strong Excel foundation for Data Analyst preparation.
