@@ -50,7 +50,7 @@ Identified compensation distribution patterns across departments and highlighted
 `projects/day1_excel_basics.xlsx`
 
 Preview:
-![Day 1](screenshots/day1_excel_basics.png)
+<img src="screenshots/day1_excel_basics.png" width="500"/>
 
 ---
 
@@ -73,7 +73,7 @@ Identified the number of high-income employees and showed efficient table mergin
 `projects/day2_lookup_practice.xlsx`
 
 Preview:
-![Day 2](screenshots/day2_lookup_practice.png)
+<img src="screenshots/day2_lookup_practice.png" width="500"/>
 
 ---
 ---
@@ -97,8 +97,7 @@ Transform messy sales dataset into structured, consistent, analysis-ready data.
 - Total Orders: 5
 
 Preview:
-![Day 3](screenshots/day3_data_cleaning.png)
-## 🎤 Interview Talking Points
+<img src="screenshots/day3_data_cleaning.png" width="500"/>
 
 ---
 
