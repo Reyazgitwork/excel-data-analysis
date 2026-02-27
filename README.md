@@ -1,3 +1,7 @@
+## 👋 About Me
+I’m a data analytics learner building my skills and portfolio step-by-step.  
+This repo tracks my progress from Excel foundations to data cleaning and beyond.
+
 # Excel Data Analysis Portfolio – Week 1
 
 This repository contains structured Excel projects completed as part of my Data Analyst preparation roadmap.  
