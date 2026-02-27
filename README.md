@@ -76,7 +76,28 @@ Preview:
 ![Day 2](screenshots/day2_lookup_practice.png)
 
 ---
+---
 
+## 🟢 Day 3 – Data Cleaning & Validation
+
+### 📌 Objective
+Transform messy sales dataset into structured, consistent, analysis-ready data.
+
+### 🔎 Cleaning Actions
+- Removed duplicate records based on Order ID
+- Standardized city names
+- Converted Order Date to proper date format
+- Replaced missing Sales values after validation
+- Cleaned text formatting using TRIM/PROPER
+- Validated numeric columns using SUM and AVERAGE
+
+### 📊 Result
+- Total Sales: 2600
+- Average Sales: 520
+- Total Orders: 5
+
+Preview:
+![Day 3](screenshots/day3_data_cleaning.png)
 ## 🎤 Interview Talking Points
 
 If asked about this project in an interview, I can explain:
