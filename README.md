@@ -100,13 +100,6 @@ Preview:
 ![Day 3](screenshots/day3_data_cleaning.png)
 ## 🎤 Interview Talking Points
 
-If asked about this project in an interview, I can explain:
-
-- Why INDEX + MATCH is more flexible than VLOOKUP
-- How lookup functions simulate real-world data integration
-- How logical categorization helps management quickly identify salary bands
-- How Excel can be used for quick business insights before moving to BI tools
-
 ---
 
 ## 🚀 Learning Roadmap
