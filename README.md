@@ -104,6 +104,22 @@ Preview:
 <img src="screenshots/day3_data_cleaning.png" width="500"/>
 
 ---
+## 🟢 Day 4 – Pivot Table Business Analysis
+
+Objective:
+Analyze retail sales dataset using pivot tables to generate business insights.
+
+Analysis Performed:
+- Revenue by Region
+- Revenue by Product Category
+- Monthly Sales Trend
+- Top 5 Customers by Revenue
+
+Key Insights:
+- Identified highest performing region
+- Determined top-selling product category
+- Observed monthly sales growth patterns
+- Highlighted most valuable customers
 
 ## 🚀 Learning Roadmap
 
