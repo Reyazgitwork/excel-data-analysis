@@ -130,7 +130,26 @@ The North region contributes the highest revenue, and overall revenue shows stro
 <img src="screenshots/sales_dashboard.png" width="600"/>
 
 ---
+---
 
+# 🟢 Personal Budget Tracker
+
+### 🎯 Objective
+Built a personal financial tracking dashboard using Excel to monitor income, expenses, and savings.
+
+### 📊 Features
+- KPI Cards:
+  - Total Income: 68,000  
+  - Total Expense: 42,400  
+  - Net Savings: 25,600  
+- Expense Distribution by Category (Pie Chart)
+- Income vs Expense Comparison (Column Chart)
+
+### 📈 Key Insight
+Rent and Shopping drive the highest expenses, while overall savings remain positive, indicating controlled spending.
+
+### 📷 Preview
+<img src="screenshots/personal_budget_tracker.png" width="600"/>
 # 🎤 Interview Talking Points
 
 I can confidently explain:
