@@ -1,180 +1,172 @@
-# 📊 Data Analytics Portfolio – Excel (Week 1)
+# 👋 Hi, I'm Reyaz  
 
-This repository documents my structured Excel learning journey as part of my Data Analyst preparation roadmap.
-
-During Week 1, I focused on building strong foundations in:
-
-- Excel formulas and functions  
-- Data cleaning and validation  
-- Lookup operations (VLOOKUP, INDEX + MATCH)  
-- Pivot table analysis  
-- Interactive dashboard creation  
-- Business insight extraction  
+### 📊 Aspiring Data Analyst | Excel Dashboards • Data Cleaning • Pivot Analysis  
+Building structured, real-world analytics projects toward job-ready skills.
 
 ---
 
-## 👤 About This Portfolio
+# 📈 Data Analytics Portfolio – Excel (Week 1)
 
-This portfolio showcases hands-on Excel projects built using real-world style datasets.  
-Each project demonstrates not only technical Excel skills but also analytical thinking and reporting ability.
+This repository documents my structured Excel learning journey as part of my Data Analyst preparation roadmap.  
+
+The focus of Week 1 was to move beyond basic spreadsheet usage and apply Excel to real-world business scenarios, including data cleaning, structured analysis, and dashboard reporting.
 
 ---
 
-## 🛠 Skills Demonstrated
+## 🎯 Week 1 Learning Objectives
+
+- Master Excel formulas and structured tables  
+- Perform data cleaning and validation  
+- Apply lookup logic (VLOOKUP, INDEX + MATCH)  
+- Use Pivot Tables for aggregation and summarization  
+- Build interactive dashboards using KPIs and slicers  
+- Extract business insights from raw datasets  
+
+---
+
+## 🛠 Core Skills Demonstrated
 
 - Data Cleaning & Validation  
-- Removing Duplicates  
-- Handling Missing Values  
-- Standardizing Text & Date Fields  
-- Structured Excel Tables  
-- VLOOKUP  
-- INDEX + MATCH  
+- Handling Missing Values & Removing Duplicates  
+- Date Formatting & Pivot Troubleshooting  
+- Structured Table References  
 - Logical Functions (IF, COUNTIF)  
-- Pivot Tables  
-- Pivot Charts  
-- Slicers (Interactive Filtering)  
+- VLOOKUP & INDEX + MATCH  
+- Pivot Tables & Pivot Charts  
+- Slicers for Interactive Reporting  
 - KPI Dashboard Design  
 
 ---
 
-# 🟢 Day 1 – Excel Fundamentals
+# 🟢 Project 1 – Excel Fundamentals
 
-### 🎯 Objective
-Build foundational Excel skills using structured employee compensation data.
+### Objective  
+Build foundational spreadsheet skills using structured employee compensation data.
 
-### 🔎 Key Tasks
+### Key Work
 - Calculated Total Compensation  
-- Used SUM, AVERAGE, COUNT, COUNTIF  
-- Applied Conditional Formatting  
-- Practiced Relative & Absolute References  
+- Applied SUM, AVERAGE, COUNT, COUNTIF  
+- Used relative & absolute references  
+- Applied conditional formatting  
 
-### 📷 Preview
+### Preview
 <img src="screenshots/day1_excel_basics.png" width="500"/>
 
 ---
 
-# 🟢 Day 2 – Lookup & Logical Functions
+# 🟢 Project 2 – Lookup & Logical Analysis
 
-### 🎯 Objective
-Merge datasets and categorize salary data using lookup and logical functions.
+### Objective  
+Simulate real-world dataset merging and salary categorization.
 
-### 🔎 Key Tasks
-- Merged data using VLOOKUP  
+### Key Work
+- Merged datasets using VLOOKUP  
 - Implemented INDEX + MATCH as a flexible lookup alternative  
 - Categorized salary levels using IF  
-- Counted high earners using COUNTIF  
+- Aggregated results using COUNTIF  
 
-### 📷 Preview
+### Preview
 <img src="screenshots/day2_lookup_practice.png" width="500"/>
 
 ---
 
-# 🟢 Day 3 – Data Cleaning & Validation
+# 🟢 Project 3 – Data Cleaning & Validation
 
-### 🎯 Objective
-Transform messy sales dataset into structured, analysis-ready data.
+### Objective  
+Transform messy sales data into a structured, analysis-ready format.
 
-### 🧹 Cleaning Process
-- Removed duplicate records based on Order ID  
-- Standardized city names  
-- Corrected inconsistent date formats  
-- Replaced missing Sales values after validation  
-- Verified numeric columns using SUM and AVERAGE  
+### Cleaning Actions
+- Removed duplicate records  
+- Standardized inconsistent city values  
+- Corrected mixed date formats  
+- Handled missing values logically  
+- Validated numeric integrity  
 
-### 📊 Results
+### Results
 - Total Sales: 2600  
 - Average Sales: 520  
 - Total Orders: 5  
 
-### 📷 Preview
+### Preview
 <img src="screenshots/day3_data_cleaning.png" width="500"/>
 
 ---
 
-# 🟢 Day 4 – Pivot Table Analysis
+# 🟢 Project 4 – Pivot Table Business Analysis
 
-### 🎯 Objective
-Summarize cleaned sales data to generate business insights using Pivot Tables.
+### Objective  
+Summarize cleaned sales data and extract business insights.
 
-### 📊 Analysis Performed
+### Analysis Performed
 - Revenue by Region  
 - Revenue by Category  
-- Monthly Sales Trend (Grouped by Month)  
+- Monthly Sales Trend  
 - Top 5 Customers  
 
-### 📷 Preview
+### Preview
 <img src="screenshots/day4_pivot_analysis.png" width="500"/>
 
 ---
 
-# 🟢 Sales Dashboard Project
+# 🟢 Project 5 – Interactive Sales Dashboard
 
-### 🎯 Objective
-Built an interactive Excel dashboard to analyze retail sales performance using KPI metrics, PivotTables, charts, and slicers.
+### Objective  
+Design an interactive Excel dashboard using KPIs, PivotTables, charts, and slicers to analyze retail sales performance.
 
-### 📊 Dashboard Features
-- KPI Cards:
-  - Total Sales: 17,800  
-  - Total Orders: 15  
-  - Average Order Value: 1,186.67  
-  - Top Region: North  
+### Dashboard Components
+- KPI Cards (Total Sales, Orders, Avg Order Value, Top Region)  
 - Revenue by Region (Column Chart)  
 - Revenue by Product Category (Bar Chart)  
 - Monthly Revenue Trend – 2024 (Line Chart)  
-- Interactive Region Slicer  
+- Interactive Region Filter  
 
-### 📈 Key Insight
-The North region contributes the highest revenue, and overall revenue shows strong growth toward May 2024.
+### Key Insight
+The North region generated the highest revenue, and revenue grew strongly toward May 2024.
 
-### 📷 Preview
+### Preview
 <img src="screenshots/sales_dashboard.png" width="600"/>
 
 ---
----
 
-# 🟢 Personal Budget Tracker
+# 🟢 Project 6 – Personal Budget Tracker
 
-### 🎯 Objective
-Built a personal financial tracking dashboard using Excel to monitor income, expenses, and savings.
+### Objective  
+Develop a financial tracking model to monitor income, expenses, and savings.
 
-### 📊 Features
-- KPI Cards:
-  - Total Income: 68,000  
-  - Total Expense: 42,400  
-  - Net Savings: 25,600  
-- Expense Distribution by Category (Pie Chart)
-- Income vs Expense Comparison (Column Chart)
+### Dashboard Components
+- Total Income, Total Expense, Net Savings KPIs  
+- Expense Distribution by Category  
+- Income vs Expense Comparison  
 
-### 📈 Key Insight
-Rent and Shopping drive the highest expenses, while overall savings remain positive, indicating controlled spending.
+### Key Insight
+Rent and Shopping account for the largest expense share, while savings remain positive.
 
-### 📷 Preview
+### Preview
 <img src="screenshots/personal_budget_tracker.png" width="600"/>
-# 🎤 Interview Talking Points
-
-I can confidently explain:
-
-- Why PivotTables are more efficient than manual formulas  
-- How to troubleshoot date grouping issues  
-- The difference between VLOOKUP and INDEX + MATCH  
-- The importance of data cleaning before analysis  
-- How KPI dashboards support business decision-making  
-- How slicers enable interactive reporting  
 
 ---
 
-# 🚀 Next Steps
+# 🎤 Interview-Ready Concepts
 
-Week 2:
-- Advanced Excel functions  
-- Enhanced dashboard styling  
-- KPI reporting improvements  
+I can confidently discuss:
 
-Week 3:
-- SQL for Data Analysis  
+- When to use VLOOKUP vs INDEX + MATCH  
+- How to resolve Pivot Table grouping errors  
+- Why structured tables improve scalability  
+- How to clean inconsistent real-world data  
+- How KPI dashboards support business decisions  
+- How slicers enable dynamic filtering  
 
 ---
 
-## 📌 Goal
+# 🚀 Learning Roadmap
 
-To build strong analytical foundations and develop job-ready Data Analyst skills through structured, documented projects.
+**Week 2:** Advanced Excel & Dashboard Enhancement  
+**Week 3:** SQL for Data Analysis  
+**Week 4+:** Power BI / Python (Pandas)
+
+---
+
+## 📌 Career Goal
+
+To transition into a Data Analyst role by building structured, business-oriented analytics projects and continuously improving technical and analytical skills.
