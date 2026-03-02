@@ -1,20 +1,22 @@
 # 📊 Data Analytics Portfolio – Excel (Week 1)
 
-This repository documents my structured learning journey in Excel as part of my Data Analyst preparation roadmap.
+This repository documents my structured Excel learning journey as part of my Data Analyst preparation roadmap.
 
-## 🔍 Focus Areas
-- Data Cleaning  
-- Lookup Functions  
-- Logical Analysis  
-- Pivot Table Reporting  
-- Business Insight Extraction  
+During Week 1, I focused on building strong foundations in:
+
+- Excel formulas and functions  
+- Data cleaning and validation  
+- Lookup operations (VLOOKUP, INDEX + MATCH)  
+- Pivot table analysis  
+- Interactive dashboard creation  
+- Business insight extraction  
 
 ---
 
-## 👤 About Me
+## 👤 About This Portfolio
 
-I am building practical data analysis skills step-by-step through structured projects and real-world business scenarios.  
-This portfolio tracks my hands-on Excel work and the development of my analytical thinking.
+This portfolio showcases hands-on Excel projects built using real-world style datasets.  
+Each project demonstrates not only technical Excel skills but also analytical thinking and reporting ability.
 
 ---
 
@@ -23,14 +25,15 @@ This portfolio tracks my hands-on Excel work and the development of my analytica
 - Data Cleaning & Validation  
 - Removing Duplicates  
 - Handling Missing Values  
-- Standardizing Text Fields  
-- Date Formatting & Grouping  
+- Standardizing Text & Date Fields  
+- Structured Excel Tables  
 - VLOOKUP  
 - INDEX + MATCH  
 - Logical Functions (IF, COUNTIF)  
 - Pivot Tables  
 - Pivot Charts  
-- Business Insight Reporting  
+- Slicers (Interactive Filtering)  
+- KPI Dashboard Design  
 
 ---
 
@@ -57,7 +60,7 @@ Merge datasets and categorize salary data using lookup and logical functions.
 
 ### 🔎 Key Tasks
 - Merged data using VLOOKUP  
-- Implemented INDEX + MATCH as flexible lookup alternative  
+- Implemented INDEX + MATCH as a flexible lookup alternative  
 - Categorized salary levels using IF  
 - Counted high earners using COUNTIF  
 
@@ -69,14 +72,13 @@ Merge datasets and categorize salary data using lookup and logical functions.
 # 🟢 Day 3 – Data Cleaning & Validation
 
 ### 🎯 Objective
-Transform messy sales dataset into structured, consistent, analysis-ready data.
+Transform messy sales dataset into structured, analysis-ready data.
 
 ### 🧹 Cleaning Process
 - Removed duplicate records based on Order ID  
-- Standardized city names for consistency  
-- Converted Order Date into proper date format  
+- Standardized city names  
+- Corrected inconsistent date formats  
 - Replaced missing Sales values after validation  
-- Cleaned text formatting using TRIM / PROPER  
 - Verified numeric columns using SUM and AVERAGE  
 
 ### 📊 Results
@@ -89,45 +91,65 @@ Transform messy sales dataset into structured, consistent, analysis-ready data.
 
 ---
 
-# 🟢 Day 4 – Pivot Table Business Analysis
+# 🟢 Day 4 – Pivot Table Analysis
 
 ### 🎯 Objective
-Analyze a retail sales dataset using PivotTables to generate meaningful business insights.
+Summarize cleaned sales data to generate business insights using Pivot Tables.
 
 ### 📊 Analysis Performed
 - Revenue by Region  
-- Revenue by Product Category  
+- Revenue by Category  
 - Monthly Sales Trend (Grouped by Month)  
-- Top 5 Customers by Revenue  
-- Created Pivot Chart for visual summary  
-
-### 📈 Key Insights
-- The North region generated the highest revenue  
-- Revenue distribution varies across regions  
-- Pivot grouping simplifies time-based analysis  
-- Visual charts improve clarity for management reporting  
+- Top 5 Customers  
 
 ### 📷 Preview
 <img src="screenshots/day4_pivot_analysis.png" width="500"/>
 
 ---
 
-## 🎤 Interview Talking Points
+# 🟢 Sales Dashboard Project
 
-- Why Pivot Tables are more efficient than manual formulas  
-- Difference between VLOOKUP and INDEX + MATCH  
-- How to troubleshoot grouping issues in date fields  
-- Importance of data cleaning before analysis  
-- How to summarize business data for decision-making  
+### 🎯 Objective
+Built an interactive Excel dashboard to analyze retail sales performance using KPI metrics, PivotTables, charts, and slicers.
+
+### 📊 Dashboard Features
+- KPI Cards:
+  - Total Sales: 17,800  
+  - Total Orders: 15  
+  - Average Order Value: 1,186.67  
+  - Top Region: North  
+- Revenue by Region (Column Chart)  
+- Revenue by Product Category (Bar Chart)  
+- Monthly Revenue Trend – 2024 (Line Chart)  
+- Interactive Region Slicer  
+
+### 📈 Key Insight
+The North region contributes the highest revenue, and overall revenue shows strong growth toward May 2024.
+
+### 📷 Preview
+<img src="screenshots/sales_dashboard.png" width="600"/>
 
 ---
 
-## 🚀 Next Steps
+# 🎤 Interview Talking Points
+
+I can confidently explain:
+
+- Why PivotTables are more efficient than manual formulas  
+- How to troubleshoot date grouping issues  
+- The difference between VLOOKUP and INDEX + MATCH  
+- The importance of data cleaning before analysis  
+- How KPI dashboards support business decision-making  
+- How slicers enable interactive reporting  
+
+---
+
+# 🚀 Next Steps
 
 Week 2:
 - Advanced Excel functions  
-- Dashboard creation  
-- KPI reporting  
+- Enhanced dashboard styling  
+- KPI reporting improvements  
 
 Week 3:
 - SQL for Data Analysis  
