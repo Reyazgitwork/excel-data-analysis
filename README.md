@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Reyaz  
+# 👋 Hi, I'm Mohammad Reyaz  
 
 ### 📊 Aspiring Data Analyst | Excel Dashboards • Data Cleaning • Pivot Analysis  
 Building structured, real-world analytics projects toward job-ready skills.
